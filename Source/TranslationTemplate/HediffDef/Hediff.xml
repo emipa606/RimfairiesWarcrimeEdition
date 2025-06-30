@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Guilty taste -->
+  <GS_fairy_eaten_Hediff.label>Guilty taste</GS_fairy_eaten_Hediff.label>
+  <!-- EN: Ate a fairy -->
+  <GS_fairy_eaten_Hediff.description>Ate a fairy</GS_fairy_eaten_Hediff.description>
+  <!-- EN: Ate Fairy -->
+  <GS_fairy_eaten_Hediff.stages.Ate_Fairy.label>Ate Fairy</GS_fairy_eaten_Hediff.stages.Ate_Fairy.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: psychic shot -->
+  <Bullet_Staff.label>psychic shot</Bullet_Staff.label>
+  <!-- EN: Staff of torment -->
+  <MeleeWeapon_Staff_Egypt.label>Staff of torment</MeleeWeapon_Staff_Egypt.label>
+  <!-- EN: A decorated stave with a purple gem attached as a focus. The gem contains a fairy that has experienced a great deal of anguish, causing the gem to develop a unique purple hue. \n\nWhile the staff is a wicked melee weapon, its real use is as a ranged weapon. By performing a simple thrust while holding the weapon,  the gem intakes a large amount of psychic energy, forcefully crushing the fairy within. This quickly causes the fairy to screech in agony, condensing the extra energy to the tip of the gem before launching said energy at blinding speed towards whatever the wielder is aiming at.\n\nAfter a fairy is sealed in the stave, it can no longer be released. The fairy will not die no matter how many times it is crushed. The only way for the fairy to expire is for the staff to break. -->
+  <MeleeWeapon_Staff_Egypt.description>A decorated stave with a purple gem attached as a focus. The gem contains a fairy that has experienced a great deal of anguish, causing the gem to develop a unique purple hue. 
+
+While the staff is a wicked melee weapon, its real use is as a ranged weapon. By performing a simple thrust while holding the weapon,  the gem intakes a large amount of psychic energy, forcefully crushing the fairy within. This quickly causes the fairy to screech in agony, condensing the extra energy to the tip of the gem before launching said energy at blinding speed towards whatever the wielder is aiming at.
+
+After a fairy is sealed in the stave, it can no longer be released. The fairy will not die no matter how many times it is crushed. The only way for the fairy to expire is for the staff to break.</MeleeWeapon_Staff_Egypt.description>
+  <!-- EN: point -->
+  <MeleeWeapon_Staff_Egypt.tools.point.label>point</MeleeWeapon_Staff_Egypt.tools.point.label>
+  <!-- EN: Staff of torment -->
+  <MeleeWeapon_Staff_Egypt.verbs.Verb_Shoot.label>Staff of torment</MeleeWeapon_Staff_Egypt.verbs.Verb_Shoot.label>
+</LanguageData>

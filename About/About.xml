@@ -7,6 +7,7 @@
   <supportedVersions>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -52,7 +53,6 @@ Q:Is this compatible with XXX?
 A: I don't know just show me the mod and i'll probably tell you.I could make some patches if needed.
 
 [img]https://i.imgur.com/rY8Govr.png[/img]
-[url=https://discord.gg/GU6s5eGDEP] [img]https://i.imgur.com/5j34bNQ.png[/img][/url]
 
 Thanks to Arxian for providing the Rimworld community with free bullet textures.
 Thanks to Mr.Samuel streamer for showing me how a horribly burned fairy would look like.
@@ -66,6 +66,8 @@ Thanks to Mr.Samuel streamer for showing me how a horribly burned fairy would lo
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3424215980][img]https://img.shields.io/github/v/release/emipa606/RimfairiesWarcrimeEdition?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  cruel</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
 </ModMetaData>
